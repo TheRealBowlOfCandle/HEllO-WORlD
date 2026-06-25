@@ -35,3 +35,16 @@ Text operating program fully on BASIC
    and it has 10 lines. Same for TwLdoc and ThLdoc
    (which are (Tw)enty(L)ine(Doc)ument and
    (Th)irty(L)ine(Doc)ument).
+
+
+
+
+
+  # UPDATE LOG BECAUSE I DONT KNOW HOW TO GITHUB
+
+  First release: HEllO WORlD 1.0
+  Second release: HEllO WORlD 1.01
+  Third release: HEllO WORlD 1.1
+  Fourth release: HEllO WORlD 1.2
+  Fifth release: HEllO WORlD 1.21
+  Sixth (last) release: HEllO WORlD 1.22
